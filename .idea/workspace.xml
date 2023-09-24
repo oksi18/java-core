@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0855149f-433b-4a68-946f-4c47eb03c2de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1/Post.java" afterDir="false" />
+    <list default="true" id="0855149f-433b-4a68-946f-4c47eb03c2de" name="Changes" comment="homework 1">
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/UltraBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task1/WorkStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Comics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task2/Papyrus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task3/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task3/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm2/task3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -42,19 +48,74 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1.Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hm2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hm2.task3.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hm2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm2.Main" />
       <module name="java-core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1.*" />
+          <option name="PATTERN" value="hm2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hm2.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm2.task1.Main" />
+      <module name="java-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hm2.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hm2.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm2.task2.Main" />
+      <module name="java-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hm2.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hm2.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm2.task3.Main" />
+      <module name="java-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hm2.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.hm2.task3.Main" />
+        <item itemvalue="Application.hm2.task2.Main" />
+        <item itemvalue="Application.hm2.task1.Main" />
+        <item itemvalue="Application.hm2.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -76,8 +141,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695305986926</updated>
-      <workItem from="1695305989704" duration="2265000" />
+      <workItem from="1695305989704" duration="13142000" />
     </task>
+    <task id="LOCAL-00001" summary="homework 1">
+      <created>1695308312924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695308312924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 1" />
   </component>
 </project>
